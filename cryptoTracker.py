@@ -1,6 +1,8 @@
+pip install matplotlib pandas
+
 import requests
 import datetime
-import matplotlib as plt
+import matplotlib.pyplot as plt
 import streamlit as st
 import pandas as pd
 
