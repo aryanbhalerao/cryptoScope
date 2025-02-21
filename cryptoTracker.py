@@ -1,6 +1,6 @@
 import requests
 import datetime
-import matplotlib.pyplot as plt
+import matplotlib as plt
 import streamlit as st
 import pandas as pd
 
